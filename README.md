@@ -1,8 +1,6 @@
 # clus_python_2019
 CLUS LABRST-2678
 
-## Python scripts for network automation lab
-
 ### Setting up a Python virtual environment
 
 https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up-a-local-programming-environment-for-python-3
