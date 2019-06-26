@@ -10,7 +10,7 @@ https://www.digitalocean.com/community/tutorial_series/how-to-install-and-set-up
 * Navigate to the downloaded directory
   * cd xxxxx
 * Create a python virtual environment
-  * virtualenv venv --python=python2.x or python3.x
+  * virtualenv venv --python=python3.x
 * Activate the venv
   * source venv/bin/activate
 * Install the python package
